@@ -1,4 +1,4 @@
-FROM openjdk:8-jre-slim
+FROM openjdk:20-ea-20-jdk-slim
 
 MAINTAINER Timo Pagel <dependencycheckmaintainer@timo-pagel.de>
 
